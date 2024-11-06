@@ -102,3 +102,6 @@ firebase_app_id_file.json
 .ios/
 .idea/
 test/**/outputs
+
+
+.env
