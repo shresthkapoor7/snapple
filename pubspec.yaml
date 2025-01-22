@@ -37,6 +37,11 @@ dependencies:
   cupertino_icons: ^1.0.8
   google_generative_ai: ^0.4.6
   flutter_dotenv: ^5.2.1
+  image_picker: ^1.1.2
+  shared_preferences: ^2.3.3
+  flutter_markdown: ^0.7.4+2
+  flutter_launcher_icons: ^0.14.1
+  flutter_tts: ^4.2.0
 
 dev_dependencies:
   flutter_test:
@@ -48,6 +53,11 @@ dev_dependencies:
   # package. See that file for information about deactivating specific lint
   # rules and activating additional ones.
   flutter_lints: ^4.0.0
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/appIcon.png"
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
@@ -63,8 +73,12 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
   - .env
-  - assets/image0.jpg
   - assets/image1.jpg
+  - assets/image2.jpg
+  - assets/unhealthy.gif
+  - assets/healthy.gif
+  - assets/workout_light.gif
+  - assets/workout_heavy.gif
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
