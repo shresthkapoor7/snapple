@@ -20,3 +20,16 @@ Snapple is an AI-driven mobile application that helps users make informed dietar
 2. **AI Analysis** – The app processes the image and extracts relevant food information.  
 3. **Personalized Recommendation** – Based on stored health preferences, the AI suggests whether you should consume the item.  
 4. **Learn More** – View insights on nutritional content, healthier alternatives, and impact on your health.  
+
+
+<div align="center">
+  
+| Home Screen | Scan Feature | Food Insights |
+|------------|-------------|--------------|
+| <img src="readmeImages/1.jpeg" width="250"/> | <img src="readmeImages/1.1.jpeg" width="250"/> | <img src="readmeImages/2.jpeg" width="250"/> |
+
+| Micro Workouts | Health Form | Saved Items |
+|-------------|----------------|---------|
+| <img src="readmeImages/3.jpeg" width="250"/> | <img src="readmeImages/5.jpeg" width="250"/> | <img src="readmeImages/6.jpeg" width="250"/> |
+
+</div>
