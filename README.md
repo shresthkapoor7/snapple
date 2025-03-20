@@ -1,3 +1,6 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/shresthkapoor7/snapple)
+![GitHub commit count](https://img.shields.io/github/commit-activity/m/shresthkapoor7/snapple)
+
 # Snapple – AI-Powered Food Analysis Application  
 
 Snapple is an AI-driven mobile application that helps users make informed dietary choices. Using **Google Gemini LLM**, the app analyzes food items in real-time based on user-specific health data. The application ensures **personalized nutrition recommendations** by considering stored health preferences, helping users determine whether a particular food item aligns with their dietary goals.  
